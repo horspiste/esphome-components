@@ -6,7 +6,7 @@ from esphome.components import (
     spi,
     display,
 )
-from esphome.const import (
+from esphome.components.spi import (
     TYPE_QUAD
 )
 from esphome.const import (
